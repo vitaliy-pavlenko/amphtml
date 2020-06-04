@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+// comment
+
 /* global require, process */
 
 const argv = require('minimist')(process.argv.slice(2));
